@@ -1,0 +1,8 @@
+NOTAS DE CLASE EXPRESIONES.JS
+
+	Tipo de operadores
+		Operadores aritmetico (+, -, *, /)
+		operadores de asignación (= / asignación)
+		Operadores de cadenas (tolowerCase, toUpperCase, trim, toString, concat)
+		Operadores logicos (&&, ||, !)
+		Operadores de comparación (<, >, <=, >=, == igualdad, === igualdad estricta)
