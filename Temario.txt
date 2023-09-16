@@ -6,3 +6,4 @@ NOTAS DE CLASE EXPRESIONES.JS
 		Operadores de cadenas (tolowerCase, toUpperCase, trim, toString, concat)
 		Operadores logicos (&&, ||, !)
 		Operadores de comparación (<, >, <=, >=, == igualdad, === igualdad estricta)
+
